@@ -6,12 +6,12 @@ App is live on https://uae-realestate-webapp.vercel.app/
 ![image](https://user-images.githubusercontent.com/44350099/155917464-a687cade-f5ae-4d04-a1b3-5b1506e5ac44.png)
 
 
-####This was based of tutorial by https://www.youtube.com/watch?v=y47gYvXchXM&t=1152s
+#### This was based of tutorial by https://www.youtube.com/watch?v=y47gYvXchXM&t=1152s
 * This employed the use of #ReactJS and #NextJS skills by building Realtor  Real Estate Application. 
 * it encompsed features such as advanced property filtering, property details page with an image carousel
 * The properties were primary catergorized into  rental homes and for-sale properties.
 
-####From this tutorial, I learnt:
+#### From this tutorial, I learnt:
 - React Best Practices
 - Next.js best practices, 
 - static generation, 
